@@ -23,6 +23,46 @@
       "category": "Educacao",
       "price": 1980,
       "createdAt": "2024-04-24T00:40:22.587Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-05-08T01:12:31.115Z",
+      "id": 4
+    },
+    {
+      "description": "Lanche ",
+      "price": 50,
+      "category": "Alimentacao",
+      "type": "outcome",
+      "createdAt": "2024-05-08T01:17:49.034Z",
+      "id": 5
+    },
+    {
+      "description": "Salario",
+      "price": 1400,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-05-08T01:19:12.460Z",
+      "id": 6
+    },
+    {
+      "description": "Memoria Ram",
+      "price": 250,
+      "category": "Computador",
+      "type": "outcome",
+      "createdAt": "2024-05-08T01:32:13.218Z",
+      "id": 7
+    },
+    {
+      "description": "Placa de video",
+      "price": 1800,
+      "category": "Computador",
+      "type": "outcome",
+      "createdAt": "2024-05-08T01:36:05.213Z",
+      "id": 8
     }
   ]
 }
